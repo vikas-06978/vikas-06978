@@ -1,4 +1,4 @@
-# 💫 Hii, I'm Vikas:
+# 💫 Hii, I'm Vikas
 🔭 I’m currently working on Data Science & Programming<br>🌱 Learning SQL, ML, Maths & Statistics<br>
 
 
